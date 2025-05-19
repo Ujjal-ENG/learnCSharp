@@ -12,3 +12,4 @@ H:\learnC#\obj\Debug\net8.0\refint\learnC#.dll
 H:\learnC#\obj\Debug\net8.0\learnC#.pdb
 H:\learnC#\obj\Debug\net8.0\learnC#.genruntimeconfig.cache
 H:\learnC#\obj\Debug\net8.0\ref\learnC#.dll
+H:\learnC#\obj\Debug\net8.0\learnC#.sourcelink.json
