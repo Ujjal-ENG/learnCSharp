@@ -1,0 +1,14 @@
+H:\learnC#\bin\Debug\net8.0\learnC#.exe
+H:\learnC#\bin\Debug\net8.0\learnC#.deps.json
+H:\learnC#\bin\Debug\net8.0\learnC#.runtimeconfig.json
+H:\learnC#\bin\Debug\net8.0\learnC#.dll
+H:\learnC#\bin\Debug\net8.0\learnC#.pdb
+H:\learnC#\obj\Debug\net8.0\learnC#.GeneratedMSBuildEditorConfig.editorconfig
+H:\learnC#\obj\Debug\net8.0\learnC#.AssemblyInfoInputs.cache
+H:\learnC#\obj\Debug\net8.0\learnC#.AssemblyInfo.cs
+H:\learnC#\obj\Debug\net8.0\learnC#.csproj.CoreCompileInputs.cache
+H:\learnC#\obj\Debug\net8.0\learnC#.dll
+H:\learnC#\obj\Debug\net8.0\refint\learnC#.dll
+H:\learnC#\obj\Debug\net8.0\learnC#.pdb
+H:\learnC#\obj\Debug\net8.0\learnC#.genruntimeconfig.cache
+H:\learnC#\obj\Debug\net8.0\ref\learnC#.dll
