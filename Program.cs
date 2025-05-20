@@ -5,7 +5,8 @@ class Test
 {
   public static void Main(string[] args)
   {
-    Console.WriteLine("Hello, World!");
-    Console.WriteLine("Hello, World2");
+    Console.Write("C# is powerful.");
+    Console.WriteLine();
+    Console.Write("C# is versatile.");
   }
 }
